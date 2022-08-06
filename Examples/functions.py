@@ -54,3 +54,4 @@ print(f'countChar test 1: {countChar("en lille gris gik på markedet", "l")}')
 print(f'countChar test 2: {countChar("rødgrød med fløde gør børnene søde", "ø")}')
 print(f'countChar test 3: {countChar("nicole er super-god til programmering", "k")}')
 print(f'countChar test 4: {countChar("hejsa", "j")}')
+# Da 'countChar' returnerer en talværdi, kan den bruges som ovenfor i print-funktionen til at indsætte svaret som funktionen giver
